@@ -18,7 +18,7 @@ Users will be able to submit commands such as GET, POST, PUT, and DELETE routes.
 
 ## Mock-Up
 The following image shows the command-line application's appearance and functionality:
-![screenshot of application]()
+![screenshot of application](./Develop/screenshots/13-orm-homework-demo-01.gif)![](./Develop/screenshots/13-orm-homework-demo-02.gif)![](./Develop/screenshots/13-orm-homework-demo-03.gif)
 
 ## Contact
 * Name - Ricardo Scuotto
